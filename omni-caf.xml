@@ -5,7 +5,7 @@
            fetch="https://github.com/" />
 
   <remote  name="omnirom"
-           fetch="https://github.com/omnirom"
+           fetch="https://hub.nuaa.cf/omnirom"
            review="gerrit.omnirom.org" />
 
   <!--<project path="hardware/ril" name="android_hardware_ril" remote="omnirom" revision="android-10" />-->
